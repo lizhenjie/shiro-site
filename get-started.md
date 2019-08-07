@@ -17,6 +17,9 @@ A list of definitions of common security concepts and concerns.
 
 * **[Apache Shiro Project Background](what-is-shiro.html)**
 Apache Shiro, like most useful tools, was created out of necessity. Learn more about the project history and mission statement.
+* **[Integrating Apache Shiro into Spring-Boot Applications](spring-boot.html)**
+Shiro’s Spring-Boot integration is the easiest way to integrate Shiro into a Spring-base application, for more general Spring Framework integration, take a the annotation or XML guides.
+
 
 
 ## Tutorials
